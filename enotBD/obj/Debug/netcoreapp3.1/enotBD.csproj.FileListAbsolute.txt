@@ -1,0 +1,224 @@
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\enotBD.exe
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\enotBD.deps.json
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\enotBD.runtimeconfig.json
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\enotBD.runtimeconfig.dev.json
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\enotBD.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\enotBD.pdb
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form1.resources
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form2.resources
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.Properties.Resources.resources
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.GenerateResource.cache
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.AssemblyInfo.cs
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.dll
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.pdb
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.genruntimeconfig.cache
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form3.resources
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\enotBD\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.CopyComplete
+C:\Users\User\Desktop\enotBD\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form4.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\enotBD.exe
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form1.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form2.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form3.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form4.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Properties.Resources.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.GenerateResource.cache
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.AssemblyInfo.cs
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.CopyComplete
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.pdb
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\enotBD.deps.json
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\enotBD.runtimeconfig.json
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\enotBD.runtimeconfig.dev.json
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\enotBD.dll
+C:\Users\User\Desktop\enotBD — копия\enotBD\bin\Debug\netcoreapp3.1\enotBD.pdb
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.genruntimeconfig.cache
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form5.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form6.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form7.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form8.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form10.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form9.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form11.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form12.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form13.resources
+C:\Users\User\Desktop\enotBD — копия\enotBD\obj\Debug\netcoreapp3.1\enotBD.Form14.resources
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\enotBD.exe
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Enot_base.mdf
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Enot_base_log.ldf
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.AssemblyReference.cache
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.ChooseMenu.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.ComputerList.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.DBMenu.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.DeleteDB.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.HardDrive.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.InsertDB.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.MainMenu.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.MotherBoard.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.PowerSupply.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.Processor.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.Properties.Resources.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.RAM.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.Rules.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.UpdateDB.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.VideoCard.resources
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.GenerateResource.cache
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.AssemblyInfoInputs.cache
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.AssemblyInfo.cs
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.CoreCompileInputs.cache
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.csproj.CopyComplete
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.dll
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.pdb
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\enotBD.deps.json
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\enotBD.runtimeconfig.json
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\enotBD.runtimeconfig.dev.json
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\enotBD.dll
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\enotBD.pdb
+D:\GITHUB\enotbd\enotBD\obj\Debug\netcoreapp3.1\enotBD.genruntimeconfig.cache
+D:\GITHUB\enotbd\enotBD\bin\Debug\netcoreapp3.1\enotBD.dll.config
